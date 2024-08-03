@@ -1,2 +1,0 @@
-# srv-redirect
-# srv-redirect
